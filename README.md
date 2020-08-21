@@ -16,7 +16,7 @@
 
 - 🔭 Fresh Computer Engineering Graduate
 - 📱   Mobile Software Developer
-- 📫 How to reach me: ghamry_97@hotmail.com
 - 🎧 Fun fact: [I'm a Music Producer too!](https://open.spotify.com/artist/5VYUbhKpehcGwceLDeb1WU)
+- 📫 Contact Me: ghamry_97@hotmail.com
 
 ![Hossam's github stats](https://github-readme-stats.vercel.app/api?username=HossamElghamry&hide=contribs,issues)
