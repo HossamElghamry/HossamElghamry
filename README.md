@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Hossam 👋
+## Hello, I'm Hossam!
 
 
 <a href="https://linkedin.com/in/hossam-elghamry-035180164">
