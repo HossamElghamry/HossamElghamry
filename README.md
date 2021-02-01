@@ -16,6 +16,6 @@
 
 - 🔭 Fresh computer engineering graduate
 - 📱   Mobile software developer
-- 🎧 Fun fact: [I'm a Music Producer too!](https://open.spotify.com/artist/5VYUbhKpehcGwceLDeb1WU)
+- 🎧 Fun fact: [I'm a music producer too!](https://open.spotify.com/artist/5VYUbhKpehcGwceLDeb1WU)
 - 📫 Contact me: ghamry_97@hotmail.com
 
