@@ -2,7 +2,7 @@
 
 
 <a href="https://linkedin.com/in/hossam-elghamry-035180164">
-  <img align="left" alt="Hossam's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Hossam's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="grey"/>
 </a>
 <a href="https://instagram.com/flarizemusic/">
   <img align="left" alt="Hossam's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
