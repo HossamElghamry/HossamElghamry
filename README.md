@@ -15,7 +15,7 @@
 <br/>
 
 - 🔭 Fresh computer engineering graduate
-- 👨‍💻 Mobile and Web software developer
+- 👨‍💻 Mobile and Web software engineer
 - 🎧 Fun fact: [I'm a music producer too!](https://open.spotify.com/artist/5VYUbhKpehcGwceLDeb1WU)
 - 📫 Contact me: ghamry_97@hotmail.com
 
