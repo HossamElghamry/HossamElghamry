@@ -14,8 +14,7 @@
 <br/>
 <br/>
 
-- 🔭 Fresh computer engineering graduate
-- 👨‍💻 Mobile and Web software engineer
+- 🔭 Software Engineer at Dell Technologies
 - 🎧 Fun fact: [I'm a music producer too!](https://open.spotify.com/artist/5VYUbhKpehcGwceLDeb1WU)
 - 📫 Contact me: ghamry_97@hotmail.com
 
