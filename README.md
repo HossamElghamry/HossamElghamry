@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-- 🔭 Software Engineer at Dell Technologies
+- 🔭 Senior Research Scientest at Dell Technologies
 - 🎧 Fun fact, I'm also a [music producer!](https://open.spotify.com/artist/5VYUbhKpehcGwceLDeb1WU)
 - 📫 Contact me: ghamry9711@gmail.com
 
