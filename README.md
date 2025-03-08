@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-- 🔭 Senior Research Scientest @ Dell Technologies
+- 🔭 Senior Research Scientist @ Dell Technologies
 - 🎧 Fun fact, I'm also a [music producer!](https://open.spotify.com/artist/5VYUbhKpehcGwceLDeb1WU)
 - 📫 Contact me: ghamry9711@gmail.com
 
